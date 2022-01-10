@@ -1,16 +1,16 @@
-### Hi there 👋
+- 👋 Hi, I’m amine
+- 👀 I’m interested in programming on python angular flask and IOT
+- 🌱 I’m currently learning lot of subjects about machine learning and IoT and python
+- 👨🏻‍💻 I'm currently working on different repos on python like bot for discord, detecting things in the network like set top boxes bonjour/avahi ...etc.
 
-<!--
-**aminekun90/aminekun90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NPM : https://www.npmjs.com/~aminekun90
 
-Here are some ideas to get you started:
+Ruby chan ( discord bot): https://github.com/aminekun90/ruby-chan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+other stuff!!
+
+- 📫 How to reach me : mohamed.amine.bouzahar@gmail.com
+<!---
+aminekun90/aminekun90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
