@@ -9,7 +9,7 @@ Ruby chan ( discord bot): https://github.com/aminekun90/ruby-chan
 
 other stuff!!
 
-- 📫 How to reach me : mohamed.amine.bouzahar@gmail.com
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/amine-bouzahar/)
 <!---
 aminekun90/aminekun90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
