@@ -1,7 +1,7 @@
-- 👋 Hi, I’m amine
-- 👀 I’m interested in programming on python angular, reactJS flask and IOT
-- 🌱 I’m currently learning lot of subjects about machine learning and IoT and python
-- 👨🏻‍💻 I'm currently working on different repos on python like bot for discord, detecting things in the network like set top boxes bonjour/avahi ...etc.
+- 👋 Hi, I’m amine an IT Engineer 
+- 👀 I Like programming in python and typescript (angular, reactJS)
+- 🌱 I’m currently learning lot of subjects about machine learning and IOT and python
+- 👨🏻‍💻 I'm currently working on different projects like bot for discord, detecting things in the network like set top boxes bonjour/avahi ... and playing over sonos devices.
 
 NPM : https://www.npmjs.com/~aminekun90
 
