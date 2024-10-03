@@ -10,7 +10,7 @@ NPM : https://www.npmjs.com/~aminekun90
 <summary><b>Skills</b></summary>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,ts,aws,angular,vue,react,git,grafana,docker,jenkins,mongo,prisma,swift,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,ts,aws,angular,vue,react,git,grafana,docker,jenkins,mongo,prisma,swift,illustrator,java,spring,maven,gradle)](https://skillicons.dev)
 
 </div>
 </details>
