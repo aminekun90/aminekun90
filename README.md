@@ -16,6 +16,8 @@ NPM : https://www.npmjs.com/~aminekun90
 </details>
 
 - 📫 How to reach me : [![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amine-bouzahar/)
+
+- Gift me a Coffee ☕️  [HERE](https://www.paypal.com/paypalme/aminebouzahar)
 <!---
 aminekun90/aminekun90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
