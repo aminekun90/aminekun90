@@ -5,6 +5,7 @@
 - 👨🏻‍💻 I'm currently working on different projects like bot for discord, detecting things in the network like set top boxes bonjour/avahi ... and playing over sonos devices.
 
 NPM : https://www.npmjs.com/~aminekun90
+
 Claude Ref : https://claude.ai/referral/CbZ___4V6g
 
 <details>
