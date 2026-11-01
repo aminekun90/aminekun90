@@ -11,8 +11,8 @@
 
 <br />
 
-Senior full-stack engineer, **twelve years** building and maintaining production software — Python
-and TypeScript services, React and Angular front ends, Kubernetes underneath. Since 2024 I lead
+Senior full-stack engineer, **twelve years** building and maintaining production software — Python,
+TypeScript and Java services, React and Angular front ends, Kubernetes underneath. Since 2024 I lead
 **applied-AI delivery**: RAG pipelines, MCP servers and agent tooling that took internal assistants
 from prototype to everyday use. Based in Lille, France — **open to relocate**.
 

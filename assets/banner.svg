@@ -54,5 +54,5 @@
   <rect x="64" y="178" width="420" height="4" rx="2" fill="url(#accent)" class="fade d2"/>
   <text x="64" y="222" class="title fade d3">Senior Full-Stack &amp; AI Engineer · 12 years in production</text>
 
-  <text x="64" y="270" class="code fade d4"><tspan class="key">stack</tspan> = [<tspan class="str">"Python"</tspan>, <tspan class="str">"TypeScript"</tspan>, <tspan class="str">"React"</tspan>, <tspan class="str">"Angular"</tspan>, <tspan class="str">"Kubernetes"</tspan>, <tspan class="str">"LLM agents"</tspan>]<tspan class="cursor" fill="#f08a4b"> ▍</tspan></text>
+  <text x="64" y="270" class="code fade d4"><tspan class="key">stack</tspan> = [<tspan class="str">"Python"</tspan>, <tspan class="str">"TypeScript"</tspan>, <tspan class="str">"Java"</tspan>, <tspan class="str">"React"</tspan>, <tspan class="str">"Angular"</tspan>, <tspan class="str">"Kubernetes"</tspan>, <tspan class="str">"LLM agents"</tspan>]<tspan class="cursor" fill="#f08a4b"> ▍</tspan></text>
 </svg>
