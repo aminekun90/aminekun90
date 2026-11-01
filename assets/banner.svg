@@ -19,9 +19,9 @@
       <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
     </pattern>
     <style>
-      .name { font: 600 64px Georgia, 'Times New Roman', serif; fill: #f4efe6; letter-spacing: -1px; }
+      .name { font: 800 66px 'Helvetica Neue', Arial, sans-serif; fill: #f4efe6; letter-spacing: -2.5px; }
       .title { font: 500 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9cfdb; }
-      .meta { font: 600 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f08a4b; letter-spacing: 3px; }
+      .meta { font: 600 14px 'SFMono-Regular', Menlo, Consolas, monospace; fill: #f08a4b; letter-spacing: 3px; }
       .code { font: 15px 'SFMono-Regular', Menlo, Consolas, monospace; fill: #8e98ad; }
       .key { fill: #f08a4b; }
       .str { fill: #ffd29d; }
