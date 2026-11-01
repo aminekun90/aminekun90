@@ -1,26 +1,22 @@
-### About Me <img src="https://media.tenor.com/re9lCQZGQ64AAAAi/scorbunny-pokemon.gif" height="5%" width="5%"/>
-- 👋 Hi, I’m amine an IT Engineer 
-- 👀 I Like programming in python and typescript (angular, reactJS)
-- 🌱 I’m currently learning lot of subjects about machine learning and IOT and python
-- 👨🏻‍💻 I'm currently working on different projects like bot for discord, detecting things in the network like set top boxes bonjour/avahi ... and playing over sonos devices.
+### Amine Bouzahar
 
-NPM : https://www.npmjs.com/~aminekun90
+Senior full stack engineer, twelve years building and maintaining
+production software. Currently working on AI powered workflows and
+internal tooling. Relocating to the Netherlands.
 
-Claude Ref : https://claude.ai/referral/CbZ___4V6g
+**Published work.** Four npm packages, around 1.9M downloads in the
+last twelve months, all TypeScript, all maintained across major
+framework versions.
 
-<details>
-<summary><b>Skills</b></summary>
-<div>
+[![npm downloads](https://img.shields.io/npm/dm/@aminekun90/ngx-toast?label=ngx-toast%20downloads)](https://www.npmjs.com/~aminekun90)
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,ts,aws,angular,vue,react,git,grafana,docker,jenkins,mongo,prisma,swift,illustrator,java,spring,maven,gradle)](https://skillicons.dev)
+- **ngx-toast** — zoneless-ready toast notifications for Angular and React
+- **mdns_listener_advanced** — mDNS publishing and discovery on local networks
+- **advanced-color-utils** — colour manipulation utilities
 
-</div>
-</details>
+**Day to day.** TypeScript, Python, Angular, Java 21, FastAPI,
+PostgreSQL, Docker, Kubernetes, AWS and GCP. Hexagonal architecture,
+domain driven design, tests before code.
 
-- 📫 How to reach me : [![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amine-bouzahar/)
-
-- Gift me a Coffee ☕️  [HERE](https://www.paypal.com/paypalme/aminebouzahar)
-<!---
-aminekun90/aminekun90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Teaching.** Volunteer Java tutoring for students during the
+pandemic, course material in `java_cours`.
