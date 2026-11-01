@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Amine Bouzahar — Senior Full-Stack &amp; AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#14213d"/>
+      <stop offset="1" stop-color="#1d2b4f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f08a4b"/>
+      <stop offset="0.5" stop-color="#ffd29d"/>
+      <stop offset="1" stop-color="#f08a4b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#f08a4b" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f08a4b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .name { font: 600 64px Georgia, 'Times New Roman', serif; fill: #f4efe6; letter-spacing: -1px; }
+      .title { font: 500 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9cfdb; }
+      .meta { font: 600 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f08a4b; letter-spacing: 3px; }
+      .code { font: 15px 'SFMono-Regular', Menlo, Consolas, monospace; fill: #8e98ad; }
+      .key { fill: #f08a4b; }
+      .str { fill: #ffd29d; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .fade { opacity: 0; animation: in 0.9s ease-out forwards; }
+      .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.35s; } .d3 { animation-delay: 0.6s; } .d4 { animation-delay: 0.9s; }
+      .orbit { transform-origin: 1010px 160px; animation: spin 40s linear infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { .cursor, .orbit { animation: none; } .fade { animation: none; opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#glow)"/>
+
+  <g class="orbit" fill="none" stroke="#ffffff" stroke-opacity="0.08">
+    <circle cx="1010" cy="160" r="70"/>
+    <circle cx="1010" cy="160" r="115" stroke-dasharray="4 10"/>
+    <circle cx="1010" cy="160" r="160"/>
+    <circle cx="1080" cy="160" r="5" fill="#f08a4b" fill-opacity="0.9" stroke="none"/>
+    <circle cx="1010" cy="45" r="4" fill="#ffd29d" fill-opacity="0.8" stroke="none"/>
+    <circle cx="850" cy="160" r="3" fill="#f4efe6" fill-opacity="0.6" stroke="none"/>
+  </g>
+
+  <text x="64" y="84" class="meta fade d1">LILLE, FRANCE  →  THE NETHERLANDS</text>
+  <text x="62" y="158" class="name fade d2">Amine Bouzahar</text>
+  <rect x="64" y="178" width="420" height="4" rx="2" fill="url(#accent)" class="fade d2"/>
+  <text x="64" y="222" class="title fade d3">Senior Full-Stack &amp; AI Engineer · 12 years in production</text>
+
+  <text x="64" y="270" class="code fade d4"><tspan class="key">stack</tspan> = [<tspan class="str">"Python"</tspan>, <tspan class="str">"TypeScript"</tspan>, <tspan class="str">"React"</tspan>, <tspan class="str">"Angular"</tspan>, <tspan class="str">"Kubernetes"</tspan>, <tspan class="str">"LLM agents"</tspan>]<tspan class="cursor" fill="#f08a4b"> ▍</tspan></text>
+</svg>
